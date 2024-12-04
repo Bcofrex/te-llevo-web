@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# 🚗 Te Llevo App - Web Companion 🌐
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bienvenido al repositorio oficial de **Te Llevo App**, tu compañero de viajes diseñado para simplificar tu vida. 🌟 ¡Descubre nuestra aplicación y empieza a disfrutar de la mejor experiencia de movilidad hoy mismo!
 
-## Available Scripts
+### 🌍 Visita nuestra página web:
+👉 [Te Llevo Web](https://bcofrex.github.io/te-llevo-web/) 👈
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🎨 Descripción
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Te Llevo App** es la solución moderna y eficiente para gestionar tus viajes y movilidad diaria. Con nuestra página web podrás:
+- 📥 Descargar la aplicación móvil directamente en tu dispositivo.
+- 🌟 Explorar características y obtener actualizaciones.
+- 🔗 Acceso fácil a recursos y soporte técnico.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 Características Principales
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Descarga Directa del APK**: Obtén la última versión de nuestra aplicación móvil.
+- **Interfaz Moderna**: Navegación intuitiva y diseño atractivo.
+- **Compatibilidad Total**: Optimizada para dispositivos Android.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📥 Descargar la Aplicación
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Haz clic en el botón de nuestra web para descargar el archivo APK e instalarlo en tu dispositivo. ¡Empieza a viajar con comodidad y estilo! 🎉
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 💻 Tecnologías Utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Este proyecto está construido con:
+- ⚛️ **React** para la interfaz web.
+- 🎨 **PrimeReact** y **PrimeFlex** para un diseño moderno y responsivo.
+- 🌐 **GitHub Pages** como servicio de hosting.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
