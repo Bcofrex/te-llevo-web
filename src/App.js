@@ -52,7 +52,7 @@ function App() {
             label="Descargar APK"
             icon="pi pi-download"
             className="p-button-rounded p-button-lg mt-4"
-            onClick={() => window.open('https://tuservidor.com/tu-apk.apk', '_blank')}
+            onClick={() => window.open('/Te-llevo.apk', '_blank')}
           />
           <Divider />
           <p className="text-sm text-600">
