@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/te-llevo-web/static/css/main.f499ab08.css",
+    "main.js": "/te-llevo-web/static/js/main.d97b2d8e.js",
+    "static/media/InterVariable-Italic.woff2": "/te-llevo-web/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/te-llevo-web/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
+    "static/media/primeicons.svg": "/te-llevo-web/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/te-llevo-web/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/te-llevo-web/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/te-llevo-web/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/te-llevo-web/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/te-llevo-web/index.html",
+    "main.f499ab08.css.map": "/te-llevo-web/static/css/main.f499ab08.css.map",
+    "main.d97b2d8e.js.map": "/te-llevo-web/static/js/main.d97b2d8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f499ab08.css",
+    "static/js/main.d97b2d8e.js"
+  ]
+}
